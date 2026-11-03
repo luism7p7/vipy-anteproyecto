@@ -1,0 +1,14 @@
+﻿alternativa,C1,C2,C3,cumple_completo
+Verificación manual,1.0,0.0,0.5,1
+Tarjeta o manilla contactless,0.0,0.5,0.0,0
+Lector con controlador,0.0,0.5,0.0,0
+Acceso móvil comercial con lector,0.0,1.0,0.5,1
+Check-in por QR desde el teléfono,1.0,0.0,0.0,1
+Boleta con QR dinámico,0.0,0.5,0.0,0
+Manilla con chip y lectores,0.0,0.5,0.0,0
+Prototipos NFC con receptores,0.0,0.5,0.0,0
+App Android con HCE y lector externo,0.0,1.0,0.0,1
+QR con validez limitada y cámara,0.0,0.0,0.0,0
+QR dinámico y Bluetooth,0.0,0.5,0.0,0
+Credencial móvil readerless,0.5,1.0,1.0,2
+Tarjeta Cívica desde el celular,0.0,0.0,0.5,0
