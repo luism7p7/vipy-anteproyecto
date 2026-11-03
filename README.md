@@ -76,6 +76,16 @@ Investigación en ciencia del diseño (**DSRM**) durante **16 semanas**, en seis
 
 Las respuestas crudas de la encuesta, las transcripciones de las entrevistas y las actas de asesoría no se publican porque contienen datos de terceros.
 
+## Análisis y tablero
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luism7p7/vipy-anteproyecto/blob/main/analisis/vipy_analisis.ipynb)
+
+- **Espacio de trabajo en Google Colab:** [`analisis/vipy_analisis.ipynb`](analisis/vipy_analisis.ipynb) reúne los conteos agregados de la encuesta, las entrevistas, la comparación de alternativas, el cronograma y el presupuesto; los grafica y calcula intervalos de confianza del 95 % (Wilson) para las cifras principales.
+- **Tablero interactivo:** [luism7p7.github.io/dashboards/vipy.html](https://luism7p7.github.io/dashboards/vipy.html), con tres páginas (problema en la puerta, teléfonos y alternativas, plan y presupuesto).
+- **Datos para Power BI:** [`analisis/datos_powerbi/`](analisis/datos_powerbi) tiene las mismas tablas en CSV (UTF-8) para abrirlas en Power BI Desktop con *Obtener datos → Texto/CSV*.
+
+Las respuestas individuales no se publican; el cuaderno usa solo los conteos que aparecen en el documento final.
+
 ## Equipo
 
 - **Ronald García Muñoz**
